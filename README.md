@@ -1,6 +1,6 @@
 # 🚜 Agro Forte, Futuro Sustentável - Agrinho 2026
 
-### 🔗 Acesse o projeto: https://ellengmendes.github.io/projeto-agrinho/
+### 🔗 Acesse o projeto: [https://ellengmendes.github.io/projeto-agrinho/](https://ellengmendes.github.io/projeto-agrinho-2026/)
 
 ## 📌 Sobre o Projeto
 **Agro Forte, Futuro Sustentável** é um site educativo desenvolvido para o **Programa Agrinho 2026**, com o tema "Equilíbrio entre tecnologia agrícola e sustentabilidade".
